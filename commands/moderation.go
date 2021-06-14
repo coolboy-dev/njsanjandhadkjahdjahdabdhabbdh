@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"https://github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/utils"
+	"github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/utils"
 	"github.com/bwmarrin/discordgo"
 )
 
