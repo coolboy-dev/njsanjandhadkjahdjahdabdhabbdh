@@ -5,8 +5,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Not-Cyrus/GoGuardian/database"
-	"github.com/Not-Cyrus/GoGuardian/utils"
+	"github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/database"
+	"github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/utils"
 	"github.com/bwmarrin/discordgo"
 )
 
