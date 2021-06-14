@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"https://github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/database"
+	"github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/database"
 	"github.com/bwmarrin/discordgo"
 	"go.mongodb.org/mongo-driver/bson"
 )
