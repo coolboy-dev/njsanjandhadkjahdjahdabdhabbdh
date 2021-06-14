@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sync"
 
-	"https://github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/commands"
-	"https://github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/events"
+	"github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/commands"
+	"github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/events"
 
 	"github.com/bwmarrin/discordgo"
 )
