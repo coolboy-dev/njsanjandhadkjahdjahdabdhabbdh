@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Not-Cyrus/GoGuardian/database"
+	"github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/database"
 	"github.com/bwmarrin/discordgo"
 )
 
