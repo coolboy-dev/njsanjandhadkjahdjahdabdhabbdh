@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"https://github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/utils"
+	"github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/utils"
 	"github.com/bwmarrin/discordgo"
 )
 
