@@ -1,7 +1,7 @@
 package api
 
 import (
-	"https://github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/commands"
+	"github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/commands"
 	"github.com/bwmarrin/discordgo"
 )
 
