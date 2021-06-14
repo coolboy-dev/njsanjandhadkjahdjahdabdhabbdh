@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Not-Cyrus/GoGuardian/events"
-	"github.com/Not-Cyrus/GoGuardian/utils"
+	"https://github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/events"
+	"https://github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/utils"
 
 	"github.com/bwmarrin/discordgo"
 )
