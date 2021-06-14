@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/Not-Cyrus/GoGuardian/commands"
-	"github.com/Not-Cyrus/GoGuardian/events"
+	"https://github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/commands"
+	"https://github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/events"
 
 	"github.com/bwmarrin/discordgo"
 )
