@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"time"
 
-	"https://github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/events"
-	"https://github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/utils"
+	"github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/events"
+	"github.com/coolboy-dev/njsanjandhadkjahdjahdabdhabbdh/utils"
 
 	"github.com/bwmarrin/discordgo"
 )
